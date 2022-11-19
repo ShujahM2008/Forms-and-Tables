@@ -1,0 +1,18 @@
+table,th,td {
+/*border-collapse:collaspe;*/
+border-collaspe:separate;
+border:2px  green solid;
+
+  
+}
+body {
+text-align:center;
+}
+table {
+margin:auto;
+}
+
+
+table.classTable {
+empty-cells: show;
+}
